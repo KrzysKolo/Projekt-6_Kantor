@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Niconne", cursive;
+  background-color: #29303b;
+}
+.wrapper {
+  padding: 50px;
+  width: 800px;
+  background-image: linear-gradient(#3f4b59, #333d46);
+  color: #fff;
+  text-align: center;
+  border: 1px solid #1c232d;
+  border-radius: 15px;
+  box-shadow: 0 0 15px #1c232d;
+}
